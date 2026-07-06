@@ -1,34 +1,8 @@
-<div align="center"><sub>
-English | <a href="https://github.com/cline/cline/blob/main/locales/es/README.md" target="_blank">Español</a> | <a href="https://github.com/cline/cline/blob/main/locales/de/README.md" target="_blank">Deutsch</a> | <a href="https://github.com/cline/cline/blob/main/locales/ja/README.md" target="_blank">日本語</a> | <a href="https://github.com/cline/cline/blob/main/locales/zh-cn/README.md" target="_blank">简体中文</a> | <a href="https://github.com/cline/cline/blob/main/locales/zh-tw/README.md" target="_blank">繁體中文</a> | <a href="https://github.com/cline/cline/blob/main/locales/ko/README.md" target="_blank">한국어</a>
-</sub></div>
+# Cline 中文版
 
-# Cline – \#1 on OpenRouter
+> 基于 Cline 深度汉化与优化，由胜算云维护，为中文开发者提供更流畅的 AI 编程体验。
 
-<p align="center">
-  <img src="https://media.githubusercontent.com/media/cline/cline/main/assets/docs/demo.gif" width="100%" />
-</p>
-
-<div align="center">
-<table>
-<tbody>
-<td align="center">
-<a href="https://marketplace.visualstudio.com/items?itemName=saoudrizwan.claude-dev" target="_blank"><strong>Download on VS Marketplace</strong></a>
-</td>
-<td align="center">
-<a href="https://discord.gg/cline" target="_blank"><strong>Discord</strong></a>
-</td>
-<td align="center">
-<a href="https://www.reddit.com/r/cline/" target="_blank"><strong>r/cline</strong></a>
-</td>
-<td align="center">
-<a href="https://github.com/cline/cline/discussions/categories/feature-requests?discussions_q=is%3Aopen+category%3A%22Feature+Requests%22+sort%3Atop" target="_blank"><strong>Feature Requests</strong></a>
-</td>
-<td align="center">
-<a href="https://docs.cline.bot/getting-started/for-new-coders" target="_blank"><strong>Getting Started</strong></a>
-</td>
-</tbody>
-</table>
-</div>
+![Demo](assets/docs/demo.gif)
 
 Meet Cline, an AI assistant that can use your **CLI** a**N**d **E**ditor.
 
@@ -139,7 +113,11 @@ For example, when working with a local web server, you can use 'Restore Workspac
 
 ## Contributing
 
-To contribute to the project, start with our [Contributing Guide](CONTRIBUTING.md) to learn the basics. You can also join our [Discord](https://discord.gg/cline) to chat with other contributors in the `#contributors` channel. If you're looking for full-time work, check out our open positions on our [careers page](https://cline.bot/join-us)!
+If you'd like to contribute to Cline 中文版, please read the project's [CONTRIBUTING.md](CONTRIBUTING.md) first.
+
+If you encounter any issues or have suggestions, feel free to submit an Issue or Pull Request.
+
+Community contributions are always welcome.
 
 <details>
 <summary>Local Development Instructions</summary>
